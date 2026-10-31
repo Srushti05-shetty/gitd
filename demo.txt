@@ -1,1 +1,2 @@
 welcome to git. This is my github project,i am commiting the file 
+editing my repository to see changes
